@@ -1,0 +1,28 @@
+name: Whitepoint
+favicon: null
+layout_spectrum: 0.1283511444926262
+typography_spectrum: 0.41252975445240736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.038648205576464534
+  lightness: 0.09702486894093454
+  saturation: 0.7728302986361086
+  rhythmicContrast: 0.8975319392047822
+purpose: []
